@@ -1,0 +1,25 @@
+{
+  "name": "ass_tools",
+  "version": "1.0.0",
+  "description": "some test to zhuangbi",
+  "main": "index.js",
+  "scripts": {
+    "test": "yes '很帅哦'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Aoshisen/ass_tools.git"
+  },
+  "keywords": [
+    "ass",
+    "react",
+    "javascript",
+    "zhuangbi"
+  ],
+  "author": "aoshisen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aoshisen/ass_tools/issues"
+  },
+  "homepage": "https://github.com/Aoshisen/ass_tools#readme"
+}
